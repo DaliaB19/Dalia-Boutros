@@ -1,21 +1,35 @@
-# 👩‍💻 Data Analyst Junior | Python • SQL • Data Visualization • Power BI 
+<p align="center">
+  <img src="https://i.imgur.com/TON-IMAGE-BANNIERE.png" width="100%" />
+</p>
 
-🎯 **Transformer les données en décisions claires et exploitables**
+<h1 align="center">👩‍💻 Data Analyst Junior</h1>
+
+<p align="center">
+Python • SQL • Power BI • Data Visualization • Machine Learning
+</p>
+
+<p align="center">
+🎯 Transformer les données en décisions claires et exploitables
+</p>
+
+---
 
 Bienvenue sur mon portfolio GitHub !
 Vous trouverez ici des projets concrets illustrant ma capacité à analyser, visualiser et interpréter des données dans différents contextes.
 
 ---
 
-## 🚀 À propos de moi
+## 🛠️ Technologies
 
-Issue d’un parcours scientifique avec une expérience en contrôle qualité en biologie, j’ai développé une forte rigueur analytique et un esprit critique.
+<p align="center">
 
-Aujourd’hui, je me spécialise en **Data Analyse** à travers des projets concrets mêlant :
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-black)
+![MachineLearning](https://img.shields.io/badge/Machine%20Learning-green)
 
-* exploration de données (EDA)
-* visualisation
-* modélisation simple
+</p>
 
 ---
 
@@ -35,57 +49,56 @@ Scikit-Learn • Régression • Clustering (K-Means)
 
 ---
 
+## 🚀 À propos de moi
+
+Issue d’un parcours scientifique avec une expérience en contrôle qualité en biologie, j’ai développé une forte rigueur analytique et un esprit critique.
+
+Aujourd’hui, je me spécialise en **Data Analyse** à travers des projets concrets mêlant :
+
+* exploration de données (EDA)
+* visualisation
+* modélisation simple
+
+---
+
 ## 📊 Projets
 
-### 🌍 Analyse du réchauffement climatique
-
-Analyse de l’évolution des températures depuis 1880 pour identifier les tendances globales et les disparités géographiques.
-
-🔗 **Voir le projet :**
-👉 (https://github.com/DaliaB19/climate-analysis)
-
-💡 *Highlights :*
-
-* Analyse temporelle longue durée
-* Comparaison hémisphères
-* Visualisations claires et interprétables
+| 🌟 Projet           | 📌 Description                                  | 🔗 Lien                                            |
+| ------------------- | ----------------------------------------------- | -------------------------------------------------- |
+| 🌍 Climate Analysis | Analyse du réchauffement climatique depuis 1880 | https://github.com/DaliaB19/climate-analysis       |
+| 📈 Sales Analysis   | Dashboard Power BI des ventes                   | https://github.com/DaliaB19/sales-analysis-powerbi |
+| 🧪 Quality Analysis | Analyse contrôle qualité (biologie)             |                                                    |
 
 ---
 
-### 📈 Analyse de données de ventes
+## 🌍 🌡️ Climate Analysis
 
-Exploration de données business pour identifier les produits performants et les tendances de vente.
+🔎 Analyse complète des températures mondiales depuis 1880
+📊 Visualisation des tendances climatiques
+🌎 Comparaison des hémisphères
 
-🔗 **Voir le projet :**
-👉 (https://github.com/DaliaB19/sales-analysis-powerbi)
-
-💡 *Highlights :*
-
-* Requêtes SQL
-* Analyse des performances produits
-* Identification des périodes clés
+👉 [Voir le projet](https://github.com/DaliaB19/climate-analysis)
 
 ---
 
-### 🧪 Analyse de données scientifiques (contrôle qualité)
+## 📈 📊 Sales Analysis (Power BI)
 
-Projet inspiré d’un contexte laboratoire avec détection d’anomalies et logique de contrôle qualité.
+📊 Analyse des performances commerciales
+📦 KPI de ventes et produits
+📈 Dashboard interactif Power BI
 
-💡 *Highlights :*
+👉 [Voir le projet](https://github.com/DaliaB19/sales-analysis-powerbi)
 
+---
+
+### 🧪 Analyse de données scientifiques (contrôle qualité) 
+
+Projet inspiré d’un contexte laboratoire avec détection d’anomalies et logique de contrôle qualité. 
+
+💡 *Highlights :* 
 * Détection d’outliers
 * Analyse critique des données
 * Approche rigoureuse
-
----
-
-## 📂 Organisation des projets
-
-Chaque projet contient :
-
-* 📓 Notebook Python détaillé
-* 📊 Visualisations
-* 🧠 Analyse et interpration des résultats
 
 ---
 
@@ -98,11 +111,21 @@ Je suis actuellement ouverte à :
 
 ---
 
-## 📫 Me contacter
+## 📂 Compétences démontrées
+
+✔ Data Cleaning
+✔ Data Visualization
+✔ Analyse de données
+✔ Business Intelligence
+✔ Storytelling data
+✔ Power BI dashboards
+
+---
+
+## 📫 Contact
 
 📧 N’hésitez pas à me contacter pour échanger ou collaborer !
 
 ---
 
-⭐ **Explorez mes projets pour découvrir mon travail !**
-
+⭐ Explorez mes projets pour découvrir mon travail !
