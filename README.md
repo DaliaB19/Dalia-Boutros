@@ -42,7 +42,7 @@ Scikit-Learn • Régression • Clustering (K-Means)
 Analyse de l’évolution des températures depuis 1880 pour identifier les tendances globales et les disparités géographiques.
 
 🔗 **Voir le projet :**
-👉 https://github.com/Dalia-Boutros/climate-analysis
+👉 https://github.com/DaliaB19/climate-analysis
 
 💡 *Highlights :*
 
