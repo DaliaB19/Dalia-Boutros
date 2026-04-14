@@ -57,7 +57,7 @@ Analyse de l’évolution des températures depuis 1880 pour identifier les tend
 Exploration de données business pour identifier les produits performants et les tendances de vente.
 
 🔗 **Voir le projet :**
-👉 https://github.com/ton-username/sales-analysis
+👉 https://github.com/DaliaB19/sales-analysis-powerbi
 
 💡 *Highlights :*
 
@@ -76,21 +76,6 @@ Projet inspiré d’un contexte laboratoire avec détection d’anomalies et log
 * Détection d’outliers
 * Analyse critique des données
 * Approche rigoureuse
-
----
-
-### 🤖 Projet Machine Learning
-
-Application de modèles simples pour explorer et segmenter des données.
-
-🔗 **Voir le projet :**
-👉 https://github.com/ton-username/machine-learning-project
-
-💡 *Highlights :*
-
-* K-Means clustering
-* Régression
-* Interprétation des résultats
 
 ---
 
