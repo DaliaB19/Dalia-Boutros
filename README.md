@@ -42,7 +42,7 @@ Scikit-Learn • Régression • Clustering (K-Means)
 Analyse de l’évolution des températures depuis 1880 pour identifier les tendances globales et les disparités géographiques.
 
 🔗 **Voir le projet :**
-👉 https://github.com/DaliaB19/climate-analysis
+👉 (https://github.com/DaliaB19/climate-analysis)
 
 💡 *Highlights :*
 
@@ -57,7 +57,7 @@ Analyse de l’évolution des températures depuis 1880 pour identifier les tend
 Exploration de données business pour identifier les produits performants et les tendances de vente.
 
 🔗 **Voir le projet :**
-👉 https://github.com/DaliaB19/sales-analysis-powerbi
+👉 (https://github.com/DaliaB19/sales-analysis-powerbi)
 
 💡 *Highlights :*
 
