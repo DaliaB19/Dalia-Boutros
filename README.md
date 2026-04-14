@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/TON-IMAGE-BANNIERE.png" width="100%" />
+  <img src="https://github.com/DaliaB19/Dalia-Boutros/blob/main/Portfolio%20de%20l'analyste%20de%20donn%C3%A9es.png" width="50%" />
 </p>
 
 <h1 align="center">👩‍💻 Data Analyst Junior</h1>
