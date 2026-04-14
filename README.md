@@ -91,7 +91,7 @@ Aujourd’hui, je me spécialise en **Data Analyse** à travers des projets conc
 
 ---
 
-### 🧪 Analyse de données scientifiques (contrôle qualité) 
+## 🧪 Analyse de données scientifiques (contrôle qualité) 
 
 Projet inspiré d’un contexte laboratoire avec détection d’anomalies et logique de contrôle qualité. 
 
